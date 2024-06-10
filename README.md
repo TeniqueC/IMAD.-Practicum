@@ -35,6 +35,7 @@ Android studio: download and install the latsest version from the official Andri
 
 - **Start the App**: Launch the app to see the main screen with an option to start entering data.
 - **Navigation**: Click the "Start" button to navigate to the Home Activity where data can be entered.
+
 ![image](https://github.com/TeniqueC/IMAD.-Practicum/assets/163857386/049e9681-baf7-48a1-8d25-90cc05830754)
 
 ### Home Activity
@@ -49,6 +50,7 @@ This design promotes a clean, maintainable, and user-friendly interface, ensurin
 - **Clear Data**: Use the "Clear" button to reset the input fields.
 - **Save Data**: Click the "Save" button to store the input data.
 - **Next**: Use the "Next" button to proceed to the detailed view screen with all saved data.
+
   ![image](https://github.com/TeniqueC/IMAD.-Practicum/assets/163857386/3b5b6c63-147c-424b-ab95-3f073326c515)
 
 
@@ -57,7 +59,8 @@ This design promotes a clean, maintainable, and user-friendly interface, ensurin
 - **View Details**: See a detailed summary of all entered data including days, temperatures, and weather conditions.
 - **Average Temperature**: Check the calculated average temperature for the period.
 - **Back**: Use the "Back" button to return to the Home Activity.
-  ![image](https://github.com/TeniqueC/IMAD.-Practicum/assets/163857386/35beb07a-4624-4bbf-a259-b1b9849a77b9)
+
+   ![image](https://github.com/TeniqueC/IMAD.-Practicum/assets/163857386/35beb07a-4624-4bbf-a259-b1b9849a77b9)
 
 
 ## Code Structure
