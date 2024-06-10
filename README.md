@@ -1,4 +1,4 @@
-# ImadPractium App
+# ImadPractium App - Tenique Chetty ST10448730
 The app that I have created in android stuidos is a weekly weather tracker app and it is designed to help users input and manage daily weather information including days, minimum and maximum temperatures, and weather conditions. It provides a seamless way to view detailed weather summaries and calculate average temperatures over a period.
 
 ## Features
